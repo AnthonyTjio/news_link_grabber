@@ -1,0 +1,8 @@
+[
+	{
+		"src": "kompas",
+		"base_url": "http://kompas.com",
+		"regex": "^(.*/read/.*)$",
+		"label": "1"
+	}
+]
